@@ -2,7 +2,7 @@
   "usuario": {
     "id": 1,
     "nombre": "Maria",
-    "apellido": acosta,
+    "apellido": "acosta",
     "direcciones": [
       {
         "id": 101,
