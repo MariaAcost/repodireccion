@@ -8,19 +8,19 @@
         "id": 101,
         "tipo": "casa",
         "calle": "muñoz gamero 3244",
-        "comuna": "Recoleta",
+        "comuna": "Recoleta"
       },
       {
         "id": 102,
         "tipo": "trabajo",
         "calle": "Independencia 3445",
-        "comuna": "Conchali",
+        "comuna": "Conchali"
       },
       {
         "id": 103,
         "tipo": "vacaciones",
         "calle": "Calle de Descanso  1102",
-        "comuna": "San jose de maipo",
+        "comuna": "San jose de maipo"
       }
     ]
   }
