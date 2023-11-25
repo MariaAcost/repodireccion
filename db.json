@@ -2,7 +2,7 @@
     "direc": [
         {
             "id": 1,
-	    "calle": "muñoz gamero 1211",
+	    "calle": "munoz gamero 1211",
 	    "comuna": "Recoleta",
             "userId": 1
         },
@@ -21,8 +21,8 @@
         {
             "id": 4,
 	    "calle": "Holanda 4310",
-	    "comuna": "Nuñoa",
+	    "comuna": "Nunoa",
             "userId": 2
         }
-    ],
+    ]
 }
