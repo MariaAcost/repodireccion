@@ -9,21 +9,18 @@
         "tipo": "casa",
         "calle": "muñoz gamero 3244",
         "comuna": "Recoleta",
-        "ciudad": "Santiago"
       },
       {
         "id": 102,
         "tipo": "trabajo",
-        "calle": "Av. independencia 3445",
+        "calle": "Independencia 3445",
         "comuna": "Conchali",
-        "ciudad": "Santiago"
       },
       {
         "id": 103,
         "tipo": "vacaciones",
         "calle": "Calle de Descanso  1102",
         "comuna": "San jose de maipo",
-        "ciudad": "Santiago"
       }
     ]
   }
