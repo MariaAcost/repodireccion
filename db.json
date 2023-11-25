@@ -1,22 +1,28 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "nombre": "Maria",
-            "apellido": "acosta",
-            "id_dir": 1
-        }
-    ],
     "direc": [
         {
             "id": 1,
-            "calle": "Muñoz Gamero 1502",
-            "comuna": "Recoleta"
+	    "calle": "muñoz gamero 1211",
+	    "comuna": "Recoleta",
+            "userId": 1
         },
         {
             "id": 2,
-            "calle": "Av. independecia 4912",
-            "comuna": "Independencia"
+	    "calle": "Av. Independencia 4991",
+	    "comuna": "Independencia",
+            "userId": 1
+        },
+	{
+            "id": 3,
+	    "calle": "Cartagena 2354",
+	    "comuna": "Cartagena",
+            "userId": 2
+        },
+        {
+            "id": 4,
+	    "calle": "Holanda 4310",
+	    "comuna": "Nuñoa",
+            "userId": 2
         }
-    ]
+    ],
 }
