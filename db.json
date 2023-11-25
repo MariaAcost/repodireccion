@@ -1,27 +1,22 @@
 {
-  "usuario": {
-    "id": 1,
-    "nombre": "Maria",
-    "apellido": "acosta",
-    "direcciones": [
-      {
-        "id": 101,
-        "tipo": "casa",
-        "calle": "muñoz gamero 3244",
-        "comuna": "Recoleta"
-      },
-      {
-        "id": 102,
-        "tipo": "trabajo",
-        "calle": "Independencia 3445",
-        "comuna": "Conchali"
-      },
-      {
-        "id": 103,
-        "tipo": "vacaciones",
-        "calle": "Calle de Descanso  1102",
-        "comuna": "San jose de maipo"
-      }
+    "users": [
+        {
+            "id": 1,
+            "nombre": "Maria",
+            "apellido": "acosta",
+            "id_dir": 1
+        }
+    ],
+    "direc": [
+        {
+            "id": 1,
+            "calle": "Muñoz Gamero 1502",
+            "comuna": "Recoleta"
+        },
+        {
+            "id": 2,
+            "calle": "Av. independecia 4912",
+            "comuna": "Independencia"
+        }
     ]
-  }
 }
