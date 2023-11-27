@@ -4,19 +4,19 @@
             "id": 1,
 	    "calle": "munoz gamero 1211",
 	    "comuna": "Recoleta",
-            "userId": 1
+            "userId": 0
         },
         {
             "id": 2,
 	    "calle": "Av. Independencia 4991",
 	    "comuna": "Independencia",
-            "userId": 1
+            "userId": 0
         },
 	{
             "id": 3,
 	    "calle": "Cartagena 2354",
 	    "comuna": "Cartagena",
-            "userId": 2
+            "userId": 0
         },
         {
             "id": 4,
